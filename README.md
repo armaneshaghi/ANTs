@@ -1,4 +1,4 @@
-https://codeship.com/projects/f03c0300-daee-0132-536a-5a84dde9b3ae/status?branch=master
+[ ![Codeship Status for armaneshaghi/ANTs](https://codeship.com/projects/f03c0300-daee-0132-536a-5a84dde9b3ae/status?branch=master)](https://codeship.com/projects/79458)
 ============================
 Advanced Normalization Tools
 ============================
